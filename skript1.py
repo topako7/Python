@@ -1,2 +1,2 @@
-print("hello world and universe")
-print("how are you?")
+print("hello world")
+print("I have good news: github ready")
